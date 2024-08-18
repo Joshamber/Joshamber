@@ -1,11 +1,11 @@
-# ¡Hola, soy Joshamber
+# ¡Hola!, soy Joshamber
 
 ## Acerca de Mí
 Soy un desarrollador de software con experiencia en Python, apacionado por el aprendizaje.
 
 Me encanta resolver problemas complejos y aprender nuevas tecnologías.
 
-- **Lenguajes**: Python, JavaScript, Java, C++
+- **Lenguajes**: Python, JavaScript, Html, css, Java, C++, C#
 
 -En constante aprendizaje
 
